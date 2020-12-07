@@ -1,0 +1,12 @@
+site_name: Debaters
+theme:
+  name: material
+  font:
+    code: Roboto Mono
+  logo: assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - search.suggest
+plugins:
+  - search
