@@ -10,4 +10,4 @@ This is a server where you can debate people with opposing views. The purpose of
 | 5. | A server where you can have fun! |
 
 # If you are sold on the server.
-Join the discord at [debaters.me/discord](debaters.me/discord)!
+Join the discord at [debaters.me/discord](/discord)!
