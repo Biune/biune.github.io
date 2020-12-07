@@ -1,6 +1,0 @@
-site_name: Debaters
-nav:
-  - 'rules.md'
-  - 'ban-appeals.md'
-  - 'information.md'
-theme: readthedocs
