@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.animalmusicweb.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1607305262|UU8WJ4VD_yAS
+www.animalmusicweb.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.animalmusicweb.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=usc1"
+
