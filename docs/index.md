@@ -1,17 +1,10 @@
-# Welcome to MkDocs
+# Welcome to Debaters
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This website is a informational page about the Debater's Discord Server, you can join here at [debaters.me/discord](debaters.me/discord)
 
-## Commands
+## Pages
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [Informational](debaters.me/infomational)
+- [Rules](debaters.me/rules)
+- [Ban Appeals](debaters.me/ban_appeals)
+- [Discord](debaters.me/discord)
