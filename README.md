@@ -1,9 +1,6 @@
 # Welcome to Debaters
----
 
 This GitHub is for maintaining the website at [debaters.me/](https://debaters.me/), this really isn't meant to be public so that you can copy the website. But more so that you can go to the disscussions tab and talk about the rules of the server. You can view the rules at [debaters.me/rules](https://debaters.me/rules).
-
----
 
 ## Pages
 
@@ -14,13 +11,9 @@ This GitHub is for maintaining the website at [debaters.me/](https://debaters.me
 - [Staff List](https://debaters.me/staff_list)
 - [Applying to Become a Moderator](https://debaters.me/moderator)
 
----
-
 # About this server
 
 This is a server where you can debate people with opposing views. The purpose of this server is to allow people to say their opinions with other people.
-
----
 
 # Features of the server!
 
