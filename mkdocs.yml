@@ -3,7 +3,7 @@ theme:
   name: material
   font:
     code: Roboto Mono
-  icon: assets/favicon.svg
+  icon: site/assets/images/favicon.svg
   features:
     - navigation.instant
     - navigation.tabs
