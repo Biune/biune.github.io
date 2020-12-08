@@ -68,6 +68,24 @@ This helps accept everyone's full opinion and to help the moderators better unde
 
 ---
 
+## **General Rules**
+
+---
+
+### Harrassment
+We have zero tolerance to harassment of any kind. Inappropriate language - including excessive swearing, slurs, or otherwise baiting negative reactions - as well as outside altercations have no place in this server, and are not allowed.
+
+### Advertising
+Advertising content and spamming - by sending repetitive messages, emojis, images or reactions - is not tolerated in this server or in DMs. Harmful content (such as viruses, pornographic or violent content) has no place in this server, or in the DMs of our users.
+
+### Friendlyness
+Treat everyone with respect. This includes fellow community members, Moderators, and Staff. Do not mention them repeatedly or in other ways harass them, by e.g. sending unsolicited friend requests or DMs.
+
+### Not-limited to.
+This list does not constitute the full set of rules, and our Moderators/Admins may take action on misbehavior and violations that are not explicitly listed above. At all times, use common sense and good judgement for any action you're about to take.
+
+---
+
 Other information:
 ```
 To talk about and add rules to the server, please head over to the gist at https://gist.github.com/biune/6dc640f9a220e83e7b906097127fff0e or debaters.me/gist
