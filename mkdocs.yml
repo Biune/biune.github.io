@@ -7,5 +7,6 @@ theme:
     - navigation.instant
     - navigation.tabs
     - search.suggest
+  favicon: assets/resized.png
 plugins:
   - search
