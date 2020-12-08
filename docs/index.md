@@ -10,6 +10,8 @@ This website is a informational page about the Debater's Discord Server, you can
 - [Rules](rules)
 - [Ban Appeals](ban_appeals)
 - [Discord](discord_join)
+- [Staff List](staff_list)
+- [Applying to Become a Moderator](moderator)
 
 ---
 
