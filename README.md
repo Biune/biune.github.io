@@ -7,12 +7,12 @@ This GitHub is for maintaining the website at [debaters.me/](https://debaters.me
 
 ## Pages
 
-- [Informational](debaters.me/infomational)
-- [Rules](debaters.me/rules)
-- [Ban Appeals](debaters.me/ban_appeals)
-- [Discord](debaters.me/discord_join)
-- [Staff List](debaters.me/staff_list)
-- [Applying to Become a Moderator](debaters.me/moderator)
+- [Informational](https://debaters.me/infomational)
+- [Rules](https://debaters.me/rules)
+- [Ban Appeals](https://debaters.me/ban_appeals)
+- [Discord](https://debaters.me/discord_join)
+- [Staff List](https://debaters.me/staff_list)
+- [Applying to Become a Moderator](https://debaters.me/moderator)
 
 ---
 
