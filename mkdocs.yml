@@ -10,3 +10,5 @@ theme:
     - search.suggest
 plugins:
   - search
+extra:
+  logo: 'compass.png'
