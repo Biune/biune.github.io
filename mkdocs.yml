@@ -3,12 +3,10 @@ theme:
   name: material
   font:
     code: Roboto Mono
-  icon: site/assets/images/favicon.svg
+  icon: logo/logo.png
   features:
     - navigation.instant
     - navigation.tabs
     - search.suggest
 plugins:
   - search
-extra:
-  logo: 'compass.png'
