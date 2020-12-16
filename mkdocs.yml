@@ -1,10 +1,22 @@
 site_name: Debaters
 site_description: Debaters Discord
 site_author: Biune#0001
-copyright: 2020
+copyright: '2020'
 
 nav:
-  - 'Home': 'index.md'
+  - 'Home': '../'
   - 'About': 'about.md'
   - 'Discord': 'https://discord.gg/MVRsuYbCRM'
   - 'Rules': 'rules.md'
+
+theme:
+  name: gitbook
+
+plugins:
+  - search
+  - awesome-pages
+  - autolinks 
+  - redirects:
+      redirect_maps:
+        'discord.md': 'https://discord.gg/MVRsuYbCRM'
+
