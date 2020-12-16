@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: Debaters
+site_description: Debaters Discord
+site_author: Biune#0001
+copyright: 2020
+
+nav:
+  - 'Home': 'index.md'
+  - 'About': 'about.md'
+  - 'Discord': 'https://discord.gg/MVRsuYbCRM'
+  - 'Rules': 'rules.md'
