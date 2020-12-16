@@ -1,6 +1,6 @@
 # Welcome to Debaters
 ---
-This website is a informational page about the Debater's Discord Server, you can join here at [debaters.me/discord](https://debaters.me/discord)
+This website is a informational page about the Debater's Discord Server, you can join here at [discord.debaters.me](https://discord.debaters.me/)
 
 ---
 
