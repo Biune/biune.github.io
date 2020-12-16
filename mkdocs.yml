@@ -19,5 +19,5 @@ plugins:
   - redirects:
       redirect_maps:
         'discord.md': 'https://discord.gg/MVRsuYbCRM'
-        'gist.md': ''
+        'gist.md': 'https://gist.github.com/biune/6dc640f9a220e83e7b906097127fff0e'
 
